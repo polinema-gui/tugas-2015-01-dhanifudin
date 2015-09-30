@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 123
+Nama  : Dian Hanifudin Subhi
+Kelas : X
 
 Dengan ini menyatakan:
 
